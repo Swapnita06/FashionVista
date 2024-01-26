@@ -1,0 +1,25 @@
+/*body{
+   background-color: black; 
+   margin: 0; padding: 0;
+   box-sizing: border-box;
+}*/
+.Carousel{
+    /*background-color:black;*/
+    margin: 0; padding: 0;
+    height: fit-content;
+    
+}
+.Footer{
+    /*background-color: #032222;*/
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+.Navigation{
+    color: azure;
+    
+}
+
